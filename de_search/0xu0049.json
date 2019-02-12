@@ -1,0 +1,17 @@
+[
+	{ "s": "ID", "p": [6] },
+	{ "s": "IDENTIFICACION", "p": [6] },
+	{ "s": "INDICADO", "p": [7, 5] },
+	{ "s": "INDUSTRIAL", "p": [8] },
+	{ "s": "INFORMACIÓN", "p": [7] },
+	{ "s": "INGRESO", "p": [3] },
+	{ "s": "INICIO", "p": [5] },
+	{ "s": "INSALVABLES", "p": [8] },
+	{ "s": "INSTALACION", "p": [2] },
+	{ "s": "INTERFAZ", "p": [3] },
+	{ "s": "INTERRENCLAVAMIENTO", "p": [8] },
+	{ "s": "INTRODUCCION", "p": [2] },
+	{ "s": "INVENTOR", "p": [2] },
+	{ "s": "ISO", "p": [8] },
+	{ "s": "ISO/TS", "p": [8] }
+]

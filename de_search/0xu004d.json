@@ -1,0 +1,22 @@
+[
+	{ "s": "MANIPULAR", "p": [3] },
+	{ "s": "MANO", "p": [7, 5] },
+	{ "s": "MANUAL", "p": [2, 1] },
+	{ "s": "MATERIAL", "p": [6, 5, 1] },
+	{ "s": "MAYOR", "p": [5] },
+	{ "s": "MEDIA", "p": [2] },
+	{ "s": "MEDIDAS", "p": [8] },
+	{ "s": "MENOR", "p": [5] },
+	{ "s": "METAL", "p": [6, 1] },
+	{ "s": "MIENTRAS", "p": [6] },
+	{ "s": "MISMA", "p": [2] },
+	{ "s": "MISMO", "p": [6] },
+	{ "s": "MODELADO", "p": [6] },
+	{ "s": "MODO", "p": [8] },
+	{ "s": "MOTIVOS", "p": [8] },
+	{ "s": "MOVER", "p": [5] },
+	{ "s": "MOVIL", "p": [4, 2] },
+	{ "s": "MOVIMIENTO", "p": [8] },
+	{ "s": "MUEVE", "p": [5, 7] },
+	{ "s": "MYSQL", "p": [6] }
+]

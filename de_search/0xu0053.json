@@ -1,0 +1,22 @@
+[
+	{ "s": "SE", "p": [8, 6, 5, 7, 4, 3] },
+	{ "s": "SEGUIR", "p": [8] },
+	{ "s": "SEGUN", "p": [5, 7, 3] },
+	{ "s": "SEGURIDAD", "p": [8, 7] },
+	{ "s": "SELECCIONAR", "p": [8] },
+	{ "s": "SENSORES", "p": [6] },
+	{ "s": "SEPARAR", "p": [8] },
+	{ "s": "SERIE", "p": [7] },
+	{ "s": "SERVER", "p": [6] },
+	{ "s": "SERVIDOR", "p": [6] },
+	{ "s": "SI", "p": [8] },
+	{ "s": "SIEMPRE", "p": [7, 5] },
+	{ "s": "SIGUIENTES", "p": [8] },
+	{ "s": "SISTEMA", "p": [8, 2] },
+	{ "s": "SISTEMAS", "p": [8, 7] },
+	{ "s": "SISTEMÁTICAMENTE", "p": [6] },
+	{ "s": "SOFTWARE", "p": [2] },
+	{ "s": "SU", "p": [8, 6] },
+	{ "s": "SUPERVISAR", "p": [8] },
+	{ "s": "SUPRIMIDO", "p": [8] }
+]

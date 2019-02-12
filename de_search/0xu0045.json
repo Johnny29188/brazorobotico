@@ -1,0 +1,23 @@
+[
+	{ "s": "E", "p": [8] },
+	{ "s": "EL", "p": [8, 5, 3, 7, 1, 6, 4, 2] },
+	{ "s": "ELEMENTOS", "p": [8] },
+	{ "s": "EN", "p": [6, 8, 4, 7, 2, 1] },
+	{ "s": "ENCARGADA", "p": [8] },
+	{ "s": "ENERGÍA", "p": [8] },
+	{ "s": "ES", "p": [6] },
+	{ "s": "ESCRITO", "p": [8] },
+	{ "s": "ESPECIAL", "p": [8] },
+	{ "s": "ESPECIFICA", "p": [8] },
+	{ "s": "ESPECIFICACIÓN", "p": [8] },
+	{ "s": "ESPECIFICAR", "p": [8] },
+	{ "s": "ESPECÍFICA", "p": [8] },
+	{ "s": "ESTA", "p": [8, 6] },
+	{ "s": "ESTANDO", "p": [8] },
+	{ "s": "ESTAS", "p": [6] },
+	{ "s": "ESTE", "p": [8, 7, 5, 2] },
+	{ "s": "ESTOS", "p": [6] },
+	{ "s": "ESTÉ", "p": [7] },
+	{ "s": "EXACTA", "p": [6] },
+	{ "s": "EXISTA", "p": [7] }
+]

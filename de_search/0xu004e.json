@@ -1,0 +1,11 @@
+[
+	{ "s": "NECESIDAD", "p": [5, 7] },
+	{ "s": "NECESIDADES", "p": [3] },
+	{ "s": "NEGOCIO", "p": [7] },
+	{ "s": "NO", "p": [8] },
+	{ "s": "NORMA", "p": [8] },
+	{ "s": "NOS", "p": [7, 6, 3] },
+	{ "s": "NUESTRA", "p": [4, 6, 5] },
+	{ "s": "NUESTRO", "p": [7] },
+	{ "s": "NUESTROS", "p": [7] }
+]

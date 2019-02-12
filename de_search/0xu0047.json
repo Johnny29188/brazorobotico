@@ -1,0 +1,8 @@
+[
+	{ "s": "GAMA", "p": [2] },
+	{ "s": "GENERAL", "p": [4] },
+	{ "s": "GRADOS", "p": [7, 5] },
+	{ "s": "GRIPPER", "p": [7, 5] },
+	{ "s": "GUARDAN", "p": [6] },
+	{ "s": "GUARDAR", "p": [8] }
+]
